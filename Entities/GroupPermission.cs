@@ -5,6 +5,7 @@ namespace Entities;
 
 public partial class GroupPermission
 {
+
     public int GroupPermissionId { get; set; }
 
     public int GroupId { get; set; }
